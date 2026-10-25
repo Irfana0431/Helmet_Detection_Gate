@@ -1,1 +1,0 @@
-# Helmet_Detection_Gate
